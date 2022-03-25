@@ -1,8 +1,8 @@
-CREATE DATABASE MVCDB;
+CREATE DATABASE EmployeeTest2;
 
 Go
 
-USE MVCDB;
+USE EmployeeTest2;
 
 GO
 
